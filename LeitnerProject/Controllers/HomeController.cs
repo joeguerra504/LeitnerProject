@@ -15,23 +15,25 @@ namespace LeitnerProject.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Google()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Placeholder for Google Cloud Study Cards";
 
             return View();
         }
 
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
         public IActionResult AWS()
         {
             return View();
         }
+
+        public IActionResult Azure()
+        {
+            ViewData["Message"] = "Placeholder for Azure Cloud Study Cards";
+
+            return View();
+        }
+       
 
         public IActionResult Error()
         {
