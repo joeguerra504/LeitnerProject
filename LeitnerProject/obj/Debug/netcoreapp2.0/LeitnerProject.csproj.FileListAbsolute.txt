@@ -9,3 +9,14 @@ C:\Users\JGuerra\source\repos\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp
 C:\Users\JGuerra\source\repos\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.AssemblyInfo.cs
 C:\Users\JGuerra\source\repos\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.dll
 C:\Users\JGuerra\source\repos\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.pdb
+C:\Dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.deps.json
+C:\Dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.runtimeconfig.json
+C:\Dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.runtimeconfig.dev.json
+C:\Dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.dll
+C:\Dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.pdb
+C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.csprojResolveAssemblyReference.cache
+C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.csproj.CoreCompileInputs.cache
+C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.AssemblyInfoInputs.cache
+C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.AssemblyInfo.cs
+C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.dll
+C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.pdb

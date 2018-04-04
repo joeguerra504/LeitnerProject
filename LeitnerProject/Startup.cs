@@ -41,10 +41,10 @@ namespace LeitnerProject
 
             app.UseMvc(routes =>
             {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                routes.MapRoute("Default", "{controller}/{action}/{id?}",
+                    new { controller = "Home", Action = "Index" });
             });
+          
         }
     }
 }
