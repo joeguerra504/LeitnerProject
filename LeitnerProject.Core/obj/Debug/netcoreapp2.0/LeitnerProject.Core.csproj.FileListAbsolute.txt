@@ -7,12 +7,3 @@ C:\Dev\LeitnerProject\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject
 C:\Dev\LeitnerProject\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.AssemblyInfo.cs
 C:\Dev\LeitnerProject\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.dll
 C:\Dev\LeitnerProject\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\bin\Debug\netcoreapp2.0\LeitnerProject.Core.deps.json
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\bin\Debug\netcoreapp2.0\LeitnerProject.Core.dll
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\bin\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.csprojResolveAssemblyReference.cache
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.csproj.CoreCompileInputs.cache
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.AssemblyInfoInputs.cache
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.AssemblyInfo.cs
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.dll
-C:\Dev\LeitnerProject\src\LeitnerProject.Core\obj\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
