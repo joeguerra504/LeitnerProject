@@ -4,8 +4,6 @@ namespace LeitnerProject.Core
 {
     public class Class1
     {
-        // TODO:
-
-
+      
     }
 }
