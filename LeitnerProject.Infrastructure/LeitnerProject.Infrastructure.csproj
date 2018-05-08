@@ -9,4 +9,8 @@
     <Folder Include="DomainEvents\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LeitnerProject.Core\LeitnerProject.Core.csproj" />
+  </ItemGroup>
+
 </Project>

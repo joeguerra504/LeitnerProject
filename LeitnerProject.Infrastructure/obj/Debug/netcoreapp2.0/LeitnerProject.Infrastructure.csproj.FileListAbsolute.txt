@@ -16,3 +16,6 @@ C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\
 C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.AssemblyInfo.cs
 C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.dll
 C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\bin\Debug\netcoreapp2.0\LeitnerProject.Core.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\bin\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.csproj.CopyComplete
