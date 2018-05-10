@@ -19,3 +19,5 @@ C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\bin\Debug\netcoreapp2.0\
 C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\bin\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
 C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.csproj.CopyComplete
 C:\Dev\LeitnerProject\src\LeitnerProject.Infrastructure\obj\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.csprojAssemblyReference.cache
+C:\dev\leitnerproject\src\LeitnerProject.Infrastructure\bin\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.runtimeconfig.json
+C:\dev\leitnerproject\src\LeitnerProject.Infrastructure\bin\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.runtimeconfig.dev.json

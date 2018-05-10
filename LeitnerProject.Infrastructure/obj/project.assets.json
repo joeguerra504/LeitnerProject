@@ -30,6 +30,18 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.dll": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.Design/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "2.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -963,6 +975,20 @@
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.xml",
         "microsoft.entityframeworkcore.2.0.3.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Design/2.0.3": {
+      "sha512": "hWmbmZg0BhXD3/zuR/w3tCfLyPHpQ52GRPKt80vSmnFOnqaa+/Di7v0zOfPQMmn9gXiZ0hAtx5ywvwRNCTCzBg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.design/2.0.3",
+      "files": [
+        ".signature.p7s",
+        "lib/net461/Microsoft.EntityFrameworkCore.Design.dll",
+        "lib/net461/Microsoft.EntityFrameworkCore.Design.xml",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
+        "microsoft.entityframeworkcore.design.2.0.3.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/2.0.3": {
@@ -3354,6 +3380,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "LeitnerProject.Core >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -3364,11 +3391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj",
+      "projectUniqueName": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj",
       "projectName": "LeitnerProject.Infrastructure",
-      "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj",
+      "projectPath": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\obj\\",
+      "outputPath": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3387,8 +3414,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj": {
-              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj"
+            "C:\\dev\\leitnerproject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj": {
+              "projectPath": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj"
             }
           }
         }
@@ -3402,6 +3429,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "[2.0.3, )"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
