@@ -17,7 +17,8 @@ namespace LeitnerProject.Infrastructure
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-               "Server = (localdb)\\ProjectsV13; Database = LeitnerProjectDatabase; Trusted_Connection = True; ");
+               "Server = (localdb)\\ProjectsV13; Database = LeitnerProjectDatabase;" +
+               " Trusted_Connection = True; ");
         }
     }
 

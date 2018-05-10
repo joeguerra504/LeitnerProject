@@ -10,6 +10,7 @@ namespace LeitnerProject.Core
     {
         public int Id { get; set; }
         public string Title { get; set; }
-        public List<Question> Questions { get; set; }
+      //  public List<Question> Questions { get; set; }
+      // error "unable to determine the relationship represented by Answer.Questions of type List<Question>
     }
 }

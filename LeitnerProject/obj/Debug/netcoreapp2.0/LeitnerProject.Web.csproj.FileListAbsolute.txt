@@ -14,9 +14,14 @@ C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.
 C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Web.runtimeconfig.dev.json
 C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Web.dll
 C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Web.pdb
-C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csprojResolveAssemblyReference.cache
 C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csproj.CoreCompileInputs.cache
 C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.AssemblyInfoInputs.cache
 C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.AssemblyInfo.cs
 C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.dll
 C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csprojAssemblyReference.cache
+C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Core.dll
+C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.dll
+C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csproj.CopyComplete
