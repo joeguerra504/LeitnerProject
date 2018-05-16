@@ -12723,11 +12723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\leitnerproject\\src\\Leitnerproject\\LeitnerProject.Web.csproj",
+      "projectUniqueName": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\LeitnerProject.Web.csproj",
       "projectName": "LeitnerProject.Web",
-      "projectPath": "C:\\dev\\leitnerproject\\src\\Leitnerproject\\LeitnerProject.Web.csproj",
+      "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\LeitnerProject.Web.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\leitnerproject\\src\\Leitnerproject\\obj\\",
+      "outputPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12746,14 +12746,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\dev\\leitnerproject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj": {
-              "projectPath": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj"
+            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj": {
+              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj"
             },
-            "C:\\dev\\leitnerproject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj": {
-              "projectPath": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj"
+            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj": {
+              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj"
             },
-            "C:\\dev\\leitnerproject\\src\\LeitnerProject.Test\\LeitnerProject.Test.csproj": {
-              "projectPath": "C:\\dev\\leitnerproject\\src\\LeitnerProject.Test\\LeitnerProject.Test.csproj"
+            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Test\\LeitnerProject.Test.csproj": {
+              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Test\\LeitnerProject.Test.csproj"
             }
           }
         }
