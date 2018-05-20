@@ -12717,23 +12717,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nick\\.nuget\\packages\\": {},
+    "C:\\Users\\nickg\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\LeitnerProject.Web.csproj",
+      "projectUniqueName": "C:\\dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.Web.csproj",
       "projectName": "LeitnerProject.Web",
-      "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\LeitnerProject.Web.csproj",
-      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\obj\\",
+      "projectPath": "C:\\dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.Web.csproj",
+      "packagesPath": "C:\\Users\\nickg\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\LeitnerProject\\LeitnerProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nickg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12746,14 +12746,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj": {
-              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Core\\LeitnerProject.Core.csproj"
+            "C:\\dev\\LeitnerProject\\LeitnerProject.Core\\LeitnerProject.Core.csproj": {
+              "projectPath": "C:\\dev\\LeitnerProject\\LeitnerProject.Core\\LeitnerProject.Core.csproj"
             },
-            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj": {
-              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj"
+            "C:\\dev\\LeitnerProject\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj": {
+              "projectPath": "C:\\dev\\LeitnerProject\\LeitnerProject.Infrastructure\\LeitnerProject.Infrastructure.csproj"
             },
-            "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Test\\LeitnerProject.Test.csproj": {
-              "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject.Test\\LeitnerProject.Test.csproj"
+            "C:\\dev\\LeitnerProject\\LeitnerProject.Test\\LeitnerProject.Test.csproj": {
+              "projectPath": "C:\\dev\\LeitnerProject\\LeitnerProject.Test\\LeitnerProject.Test.csproj"
             }
           }
         }
