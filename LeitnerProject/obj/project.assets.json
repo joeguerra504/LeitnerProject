@@ -12535,27 +12535,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nick\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\nickg\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.csproj",
+      "projectUniqueName": "C:\\dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.csproj",
       "projectName": "LeitnerProject",
-      "projectPath": "C:\\Dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.csproj",
-      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\LeitnerProject\\LeitnerProject\\obj\\",
+      "projectPath": "C:\\dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.csproj",
+      "packagesPath": "C:\\Users\\nickg\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\LeitnerProject\\LeitnerProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\nickg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
