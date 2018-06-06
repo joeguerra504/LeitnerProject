@@ -1,4 +1,3 @@
-C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csprojResolveAssemblyReference.cache
 C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csproj.CoreCompileInputs.cache
 C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.AssemblyInfoInputs.cache
 C:\Dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.AssemblyInfo.cs
@@ -32,3 +31,16 @@ C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.
 C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Test.pdb
 C:\Dev\LeitnerProject\src\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Core.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Test.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Core.pdb
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Infrastructure.pdb
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\LeitnerProject.Test.pdb
+C:\dev\LeitnerProject\LeitnerProject\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csprojAssemblyReference.cache
+C:\dev\LeitnerProject\LeitnerProject\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csproj.CopyComplete
