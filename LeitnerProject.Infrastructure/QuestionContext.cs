@@ -1,10 +1,5 @@
 ﻿using LeitnerProject.Core;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LeitnerProject.Infrastructure
 {
@@ -22,6 +17,8 @@ namespace LeitnerProject.Infrastructure
 
         }
 
+        // TODO: May need to refactor QuestionContext after redoing the Database Model
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
@@ -30,5 +27,5 @@ namespace LeitnerProject.Infrastructure
         }
     }
 
-    
+
 }
