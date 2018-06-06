@@ -8,16 +8,26 @@ namespace LeitnerProject.Infrastructure
         public DbSet<Question> Questions { get; set; }
         public DbSet<Answer> Answers { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Subcategory> Subcategories { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<UserStatistics> UserStatistics { get; set; }
+        public DbSet<Tests> Tests { get; set; }
+
+
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<QuestionAnswer>()
-                        .HasKey(q => new { q.QuestionId, q.AnswerId });
-            base.OnModelCreating(modelBuilder);
+            // Removed QuestionAnswer Class, as the relationship needs to be Question:Answer 1:N, not N:N
+            //  modelBuilder.Entity<QuestionAnswer>()
+            //              .HasKey(q => new { q.QuestionId, q.AnswerId });
+            //  base.OnModelCreating(modelBuilder);
+
+            // Need to create N:N relationships for CategoryUserstatistics, TestSubcategories, QuestionSubcategories, TestQuestions,
+            // and UserTests, if these are not automatically created by new Migrations after new Dbsets have been added properly. 
 
         }
 
-        // TODO: May need to refactor QuestionContext after redoing the Database Model
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
