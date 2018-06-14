@@ -13,7 +13,11 @@ namespace LeitnerProject.Infrastructure
       public DbSet<UserStatistics> UserStatistics { get; set; }
       public DbSet<Tests> Tests { get; set; }
 
-      // TODO: need to add a NEW migration to seed the Db
+      // First need to get correct packages so I can use Powershell command
+      // line to use EF Core Commands.
+
+      // TODO: Need to add new migration and update to recreate database
+      // go through article as reference (3 part)
 
 
       protected override void OnModelCreating(ModelBuilder modelBuilder)
