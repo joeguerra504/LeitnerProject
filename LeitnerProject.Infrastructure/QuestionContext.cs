@@ -11,7 +11,7 @@ namespace LeitnerProject.Infrastructure
       public DbSet<Subcategory> Subcategories { get; set; }
       public DbSet<User> Users { get; set; }
       public DbSet<UserStatistics> UserStatistics { get; set; }
-      public DbSet<Tests> Tests { get; set; }
+      public DbSet<Test> Tests { get; set; }
 
       // First need to get correct packages so I can use Powershell command
       // line to use EF Core Commands.
