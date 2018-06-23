@@ -12866,23 +12866,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\nickg\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Nick\\.nuget\\packages\\": {},
+>>>>>>> 53178d9a7c3945983c0a4a5f23ae5bb2e288d302
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.Web.csproj",
       "projectName": "LeitnerProject.Web",
       "projectPath": "C:\\dev\\LeitnerProject\\LeitnerProject\\LeitnerProject.Web.csproj",
       "packagesPath": "C:\\Users\\nickg\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\LeitnerProject\\LeitnerProject\\obj\\",
+=======
+      "projectUniqueName": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\LeitnerProject.csproj",
+      "projectName": "LeitnerProject",
+      "projectPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\LeitnerProject.csproj",
+      "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\LeitnerProject\\src\\LeitnerProject\\obj\\",
+>>>>>>> 53178d9a7c3945983c0a4a5f23ae5bb2e288d302
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\nickg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 53178d9a7c3945983c0a4a5f23ae5bb2e288d302
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

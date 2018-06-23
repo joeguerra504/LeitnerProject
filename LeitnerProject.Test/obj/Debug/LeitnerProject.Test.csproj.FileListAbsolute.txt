@@ -1,0 +1,14 @@
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\LeitnerProject.Test.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\LeitnerProject.Test.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\obj\Debug\LeitnerProject.Test.csproj.CoreCompileInputs.cache
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\obj\Debug\LeitnerProject.Test.csproj.CopyComplete
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\obj\Debug\LeitnerProject.Test.dll
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\obj\Debug\LeitnerProject.Test.pdb
+C:\Dev\LeitnerProject\src\LeitnerProject.Test\obj\Debug\LeitnerProject.Test.csprojAssemblyReference.cache

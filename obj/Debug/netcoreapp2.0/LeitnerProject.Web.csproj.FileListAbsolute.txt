@@ -1,0 +1,4 @@
+C:\dev\leitnerproject\src\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csprojAssemblyReference.cache
+C:\dev\leitnerproject\src\obj\Debug\netcoreapp2.0\LeitnerProject.Web.csproj.CoreCompileInputs.cache
+C:\dev\leitnerproject\src\obj\Debug\netcoreapp2.0\LeitnerProject.Web.AssemblyInfoInputs.cache
+C:\dev\leitnerproject\src\obj\Debug\netcoreapp2.0\LeitnerProject.Web.AssemblyInfo.cs
